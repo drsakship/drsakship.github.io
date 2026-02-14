@@ -15,4 +15,4 @@ PhD-qualified professional with strong analytical and research skills, experienc
 🔹 Assistant Professor (Commerce & Management)  
 🔹 Researcher | Academic Leader | Cultural Head  
 
-👉 *Use the navigation menu to explore my academic and professional profile.*
+
