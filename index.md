@@ -15,4 +15,27 @@ PhD-qualified professional with strong analytical and research skills, experienc
 🔹 Assistant Professor (Commerce & Management)  
 🔹 Researcher | Academic Leader | Cultural Head  
 
+# Dr. Sakshi Pandey (PhD)
+
+Assistant Professor | Commerce & Management  
+📍 Haldwani, Uttarakhand  
+
+---
+
+## Navigation
+
+- [Experience](experience.html)
+- [Education](education.md)
+- [Publications](publications.md)
+- [Conferences](conferences.md)
+- [Skills](skills.md)
+- [Contact](contact.md)
+
+---
+
+## Professional Summary
+
+PhD-qualified academic professional with strong analytical and research skills,
+experienced in teaching, research, and academic leadership.
+
 
