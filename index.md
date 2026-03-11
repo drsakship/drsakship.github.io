@@ -2,13 +2,20 @@
 <html>
 
 <head>
+  <h1>Dr. Sakshi Pandey (PhD)</h1>
+<link rel="stylesheet" href="style.css">
 
+<link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css"/>
 </head>
 
 <body>
 
-<h1>Dr. Sakshi Pandey (PhD)</h1>
 
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+AOS.init();
+</script>
 </body>
 
 </html>
