@@ -2,21 +2,17 @@
 <html>
 
 <head>
-<title>Dr Sakshi Portfolio</title>
+
 </head>
 
 <body>
 
-<h1>Welcome to My Website</h1>
+<h1>Dr. Sakshi Pandey (PhD)</h1>
 
 </body>
 
 </html>
----
-title: Dr. Sakshi Pandey
----
 
-# Dr. Sakshi Pandey (PhD)
 
 📍 Haldwani, Uttarakhand  
 📧 dr.sakship05@gmail.com  
