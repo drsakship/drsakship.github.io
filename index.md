@@ -3,8 +3,6 @@
 
 <head>
 
-<title>Dr. Sakshi Pandey</title>
-
 <link rel="stylesheet" href="style.css">
 
 <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css"/>
@@ -19,8 +17,6 @@
 <p>📍 Haldwani, Uttarakhand</p>
 
 <p>📧 dr.sakship05@gmail.com</p>
-
-<p>📞 +91 9760412499</p>
 
 <p>PhD in Commerce | Assistant Professor | Researcher</p>
 </header>
